@@ -1,0 +1,32 @@
+{
+	"_id": {
+		"$oid": "5b4aa4ead3089013507db18b"
+	},
+	"bestsellers_date": {
+		"$date": {
+			"$numberLong": "1211587200000"
+		}
+	},
+	"published_date": {
+		"$date": {
+			"$numberLong": "1212883200000"
+		}
+	},
+	"amazon_product_url": "http://www.amazon.com/Odd-Hours-Dean-Koontz/dp/0553807056?tag=NYTBS-20",
+	"author": "Dean R Koontz",
+	"description": "Odd Thomas, who can communicate with the dead, confronts evil forces in a California coastal town.",
+	"price": {
+		"$numberInt": "27"
+	},
+	"publisher": "Bantam",
+	"title": "ODD HOURS",
+	"rank": {
+		"$numberInt": "1"
+	},
+	"rank_last_week": {
+		"$numberInt": "0"
+	},
+	"weeks_on_list": {
+		"$numberInt": "1"
+	}
+}
